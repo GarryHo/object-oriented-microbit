@@ -1,5 +1,5 @@
 {
-    "name": "Object Orianted Microbit",
+    "name": "Object Oriented Microbit",
     "description": "",
     "dependencies": {
         "core": "*",
